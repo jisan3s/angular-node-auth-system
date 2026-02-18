@@ -138,7 +138,7 @@ project-root/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/yourusername/angular-node-auth-system.git
+git clone https://github.com/jisan3s/angular-node-auth-system.git
 cd angular-node-auth-system
 ```
 
